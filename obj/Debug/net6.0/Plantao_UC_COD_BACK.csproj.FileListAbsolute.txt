@@ -1,0 +1,15 @@
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\bin\Debug\net6.0\Plantao_UC_COD_BACK.exe
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\bin\Debug\net6.0\Plantao_UC_COD_BACK.deps.json
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\bin\Debug\net6.0\Plantao_UC_COD_BACK.runtimeconfig.json
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\bin\Debug\net6.0\Plantao_UC_COD_BACK.dll
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\bin\Debug\net6.0\Plantao_UC_COD_BACK.pdb
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.csproj.AssemblyReference.cache
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.AssemblyInfoInputs.cache
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.AssemblyInfo.cs
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.dll
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\obj\Debug\net6.0\refint\Plantao_UC_COD_BACK.dll
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.pdb
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.genruntimeconfig.cache
+C:\Users\Bruno Santos\Desktop\Plantão\Plantao_UC_COD_BACK\obj\Debug\net6.0\ref\Plantao_UC_COD_BACK.dll
